@@ -1,0 +1,9 @@
+Package: tempConvert
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2022-05-12
+Author: This Package is created by Ankit kohli
+Maintainer: Who to complain to <ankitkohli181@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: MIT License
